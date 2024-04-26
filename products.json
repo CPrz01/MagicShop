@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"Pocion de amor",
+        "price":1500,
+        "image": "image/love-potion.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Pocion de fuego",
+        "price":700,
+        "image": "image/fire-potion.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Veneno",
+        "price":2500,
+        "image": "image/poison.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Pocion para dormir",
+        "price":900,
+        "image": "image/sleep-potion.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Pocion de tormenta",
+        "price":650,
+        "image": "image/storm-potion.jpg"
+    }
+]
