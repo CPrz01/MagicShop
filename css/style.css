@@ -54,12 +54,7 @@ header{
 .title{
     font-size: 50px;
     font-family: 'vintage';
-    color: transparent;
-    background-image: url(/image/galaxia.jpg);
-    background-size: cover;
-    background-position: center;
-    background-clip: text;
-    -webkit-background-clip: text;
+    color: #eee;
 }
 .listProduct .item img{
     width: 90%;
